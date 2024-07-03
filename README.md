@@ -7,3 +7,4 @@ This is a desktop app for number conversions using `Python`
 * tkinter
 * numbersystem
 
+#### This is a simple app with simple code and interface because TKINTER isn't that good in making UI for desktops but if you have a small project that requires simple buttons, labels and widgets you can use this library.
