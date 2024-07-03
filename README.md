@@ -2,7 +2,8 @@
 ### Author - Ateeb Akmal
 
 ### Descyption:
-This is a desktop app for number conversions using `Python` and used libraries are
+This is a desktop app for number conversions using `Python`
+<br> Used libraries are:
 * tkinter
 * numbersystem
 
